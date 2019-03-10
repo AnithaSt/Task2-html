@@ -1,0 +1,66 @@
+header{background-color: #0099e6;
+	   height:70px;width:100%}
+#p {margin: 20px 0px 0px 5px}
+#b {margin: 20px 0px 0px 100px}
+button {width:100px; height:25px;
+		background:white;}
+* {margin:0;
+   padding:0;}
+#i {float:right; 
+	margin:15px 90px 50px 25px;
+    height: 35px ;
+    border-radius: 30px;
+    border-color:#2e5cb8;
+	background-image: url("../img/image.png");
+	background-size: 25px 25px;
+	background-repeat: no-repeat;
+	background-position:left;
+	background-color:#1ab2ff;
+	font-size:15px}
+img {height:220px;width:100%;
+	 margin-top:-34px;
+	 padding: 0px;}
+.container {position: relative;
+			color: white;}
+.top-right {position: absolute;
+ 			top: 4px;
+  			right: 5px;}
+div.head {font-size:33px;
+		  margin-right:110px;
+	     font-family: "Times New Roman";}
+.a {margin: 10px}
+.ul {list-style-type: none;}
+#l{margin: 15px 0px 50px 5px;
+	 width:110px; height:20px;
+	 border-radius: 10px;
+	 background:#ffcc66;
+	 border-color:#ffcc66;
+	 background-image: url("../img/shopping.png");
+	 background-position:left;
+	 background-repeat: no-repeat;
+	 background-size: 20px 20px;
+	 color: white; }
+.pr {margin: 5px 0px 30px 100px;}
+body{background-color:#e6eeff}
+th {text-align: justify; height: 50px;}
+		td{text-align:justify;}
+		.table {background-image: url("../img/male.png");
+				background-size: 50px 50px;
+				background-repeat: no-repeat;
+				background-position:left;
+				}
+		.width {width:1150px;margin:0px 50px 0px 40px;}
+.h {margin-left:50px;}
+.p{margin: 0px 0px 25px 25px}
+* {box-sizing: border-box;}
+.column{float:right;
+  width: 25%;
+  padding: 25px;
+  height: 50px;
+text-align: center;}
+.ic{width: 200px;height: 120px;margin-right: 10px;
+}
+html {overflow:hidden;}
+
+
+
